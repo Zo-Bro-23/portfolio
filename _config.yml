@@ -33,9 +33,6 @@ highlighter: rouge
 sass:
   style: :compressed
 
-plugins:
-  - jekyll-pdf-embed
-
 include: ['posts']
 
 destination: docs/
