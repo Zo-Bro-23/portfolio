@@ -19,4 +19,4 @@ layout: post
 
 ## Resume
 
-<!-- {% pdf "/assets/resume.pdf" no_link %} -->
+{% pdf "/assets/resume.pdf" no_link %}
