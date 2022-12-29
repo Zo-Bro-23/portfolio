@@ -9,7 +9,7 @@ layout: post
 - [Terminal Portfolio](https://portfolio.zohan.tech) (my portfolio in an interactive terminal format)
 
 ## Projects
-### ZoAuth
+### [ZoAuth](https://npmjs.com/package/zoauth)
 
 <iframe width="974" height="548" src="https://www.youtube.com/embed/jWLpqkWkTiQ" title="Introducing ZoAuth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
