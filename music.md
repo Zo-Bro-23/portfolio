@@ -1,7 +1,6 @@
 ---
 layout: post
 ---
-# Music
 ## Piano
 #### Moonlight Sonata by Beethoven
 #### Sonata Facile Movement 1 by Mozart

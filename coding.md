@@ -1,7 +1,6 @@
 ---
 layout: post
 ---
-# Coding
 ## Links/Profiles
 - [GitHub](https://github.com/Zo-Bro-23)
 - [LinkedIn](https://linkedin.com/in/zobro23)
