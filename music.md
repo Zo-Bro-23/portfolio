@@ -34,4 +34,8 @@ Lyrics, Composition, and Rendition by Zohan Subhash
 
 #### Next Winter Comes Slowly by Purcell
 
+<iframe width="487" height="274" src="https://www.youtube.com/embed/cbzQ8dzQZlU" title="Next, Winter Comes Slowly" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 #### Leave Me Loathsome Light by Handel
+
+<iframe width="487" height="274" src="https://www.youtube.com/embed/0wsDWLHKqxU" title="Leave Me, Loathsome Light!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
