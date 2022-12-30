@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Music
 ---
 ## Piano
 #### Moonlight Sonata by Beethoven

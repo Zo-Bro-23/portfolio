@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Theater
 ---
 #### Lead Actor in Short Film (Age 6) - Won Awards at a National Level
 

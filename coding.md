@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Coding
 ---
 ## Links/Profiles
 - [GitHub](https://github.com/Zo-Bro-23)

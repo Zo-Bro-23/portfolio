@@ -1,5 +1,6 @@
 ---
 layout: post
+title: Writing
 ---
 ## Party Crashers
 
