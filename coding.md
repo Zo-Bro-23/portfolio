@@ -23,7 +23,7 @@ title: Coding
 
 ## Coding Profile
 
-{% include_relative ../assets/readme.md %}
+{% include_relative assets/readme.md %}
 
 ## 3D Printing Projects
 - [Thingiverse](https://thingiverse.com)
