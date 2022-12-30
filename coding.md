@@ -19,7 +19,7 @@ title: Coding
 
 ## Resume
 
-<iframe src="../assets/resume.pdf" frameborder="0" width="100%" height="650px"></iframe>
+<iframe src="/assets/resume.pdf" frameborder="0" width="100%" height="650px"></iframe>
 
 ## Coding Profile
 
