@@ -10,5 +10,5 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Download a file
-        run: curl https://github.com/Zo-Bro-23/Zo-Bro-23/raw/main/README.md -o ./assets/readme.md
+        run: curl "https://githubusercontent.zohan.tech?user=Zo-Bro-23&repo=Zo-Bro-23&path=README.md" -o ./assets/readme.md
       - uses: stefanzweifel/git-auto-commit-action@v4
