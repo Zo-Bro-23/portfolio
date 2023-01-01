@@ -35,4 +35,13 @@ sass:
 
 include: ['posts']
 
+twitter:
+    card: summary_large_image
+
+soopr:
+  publish_token: "pt_175bfc53b432bd98cfeded1422912e92"
+  
+plugins:
+  - jekyll-soopr-seo-tag
+
 destination: docs/
