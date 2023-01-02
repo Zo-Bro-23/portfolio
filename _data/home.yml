@@ -6,19 +6,19 @@ project_entries:
   - title: Music
     url: music
     desc: Piano, Western Vocals, and other music-related projects
-    highlight: 9Y
+    highlight: 2013-Present
   - title: Theater
     url: theater
     desc: Theater work (Actor, Director, Scriptwriter, Audio Producer)
-    highlight: 7Y
+    highlight: 2013-2020
   - title: Writing
     url: writing
     desc: Writing work
-    highlight: 3Y
+    highlight: 2020-Present
   - title: Coding
     url: coding
     desc: Coding!
-    highlight: 3Y
+    highlight: 2020-Present
     
 footer_entries:
   - title: GitHub

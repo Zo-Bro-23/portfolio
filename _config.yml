@@ -1,13 +1,13 @@
 title: My Portfolio
 author: Zohan Subhash
 url: https://web.zohan.tech/portfolio # root address of the site
-description: My Portfolio
+description: My various projects, interests, and hobbies, as well as a place to showcase my achievements.
 permalink: /:slug
 
 favicon: "./logo.png" # relative path to site's favicon
 
-remote_theme: abhinavs/moonwalk
-# theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
+# remote_theme: abhinavs/moonwalk
+theme: moonwalk # if you are using GitHub Pages, change it to # remote_theme: abhinavs/moonwalk
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"

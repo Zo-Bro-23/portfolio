@@ -1,8 +1,14 @@
 ---
 layout: post
 title: Music
+description: Piano, Western Vocals, and other music-related projects
 ---
 ## Piano
+### Experience
+- Have been learning the piano for 9 years
+- Currently perfecting the Moonlight Sonata (Third Movement)
+- Have attended a workshop conducted by Prof. Simon from Trinity Laban, which gave me numerous insights into expression and performance techniques
+
 ### Performances
 #### Moonlight Sonata by Beethoven
 
@@ -28,12 +34,12 @@ title: Music
 
 <iframe width="487" height="274" src="https://www.youtube.com/embed/llzPnF4Nv-0" title="Beethoven - Fur Elise" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Experience
-- Have been learning the piano for 9 years
-- Currently perfecting the Moonlight Sonata (Third Movement)
-- Have attended a workshop conducted by Prof. Simon from Trinity Laban, which gave me numerous insights into expression and performance techniques
-
 ## Western Vocals
+### Experience
+- Have been learning vocals for 3 years
+- I love to sing, and I experiment with new styles and voice patterns that I am unfamiliar with
+- Currently working with baroque songs, folk songs, and sea shanties
+
 ### Performances
 #### Meiosis Here to Save the Day by ZoBro23
 Lyrics, Composition, and Rendition by Zohan Subhash
@@ -48,6 +54,5 @@ Lyrics, Composition, and Rendition by Zohan Subhash
 
 <iframe width="487" height="274" src="https://www.youtube.com/embed/0wsDWLHKqxU" title="Leave Me, Loathsome Light!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Experience
-- Have been learning vocals for 3 years
-- I love to sing, and I experiment with new styles and voice patterns that I am unfamiliar with
+### Listening preferences :)
+<a href="https://www.last.fm/user/ZoBro23"><img width="" alt="My Last.FM" title="My Last.FM" src="https://lastfm-recently-played.vercel.app/api?user=ZoBro23"/></a>
