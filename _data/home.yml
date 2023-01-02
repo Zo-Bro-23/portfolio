@@ -19,6 +19,10 @@ project_entries:
     url: coding
     desc: Coding!
     highlight: 2020-Present
+  - title: Tinkering
+    url: tinkering
+    desc: 3D Printing, Robotics, and Shop Work
+    highlight: 2016-Present
     
 footer_entries:
   - title: GitHub

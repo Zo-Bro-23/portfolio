@@ -24,7 +24,3 @@ title: Coding
 ## Coding Profile
 
 {% include_relative assets/readme.md %}
-
-## 3D Printing Projects
-- [Thingiverse](https://thingiverse.com)
-- [GitHub](https://github.com/Zo-Bro-23/3D-Printing)

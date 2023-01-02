@@ -6,13 +6,13 @@ description: Piano, Western Vocals, and other music-related projects
 ## Piano
 ### Experience
 - Have been learning the piano for 9 years
-- Currently perfecting the Moonlight Sonata (Third Movement)
+- Currently perfecting the Moonlight Sonata (Third Movement) and preparing for the Trinity Grade 8 exam
 - Have attended a workshop conducted by Prof. Simon from Trinity Laban, which gave me numerous insights into expression and performance techniques
 
 ### Performances
 #### Moonlight Sonata by Beethoven
 
-<iframe width="487" height="274" src="https://www.youtube.com/embed/vedtdi5s4jk" title="Beethoven's Moonlight Sonata - @zobro23" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="487" height="274" src="https://www.youtube.com/embed/P0Xs4BXAKcs" title="Beethoven's Moonlight Sonata @zobro23" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Sonata Facile Movement 1 by Mozart
 
@@ -36,7 +36,7 @@ description: Piano, Western Vocals, and other music-related projects
 
 ## Western Vocals
 ### Experience
-- Have been learning vocals for 3 years
+- Have been learning vocals for 3 years (Baritone/Bass)
 - I love to sing, and I experiment with new styles and voice patterns that I am unfamiliar with
 - Currently working with baroque songs, folk songs, and sea shanties
 
