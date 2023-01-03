@@ -1,12 +1,14 @@
 ---
 layout: post
 title: Tinkering
+desc: 3D Printing, Robotics, and Shop Work
 ---
 ## 3D Printing Projects
 - [Thingiverse](https://thingiverse.com)
 - [GitHub](https://github.com/Zo-Bro-23/3D-Printing)
 
 ![3D Printing Projects](assets/3DPrinting.jpg)
+
 From the top:
 - Stand I designed and printed for my microphone
 - Extension I designed and printed to use bigger filament spools with my printer

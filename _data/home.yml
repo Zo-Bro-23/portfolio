@@ -9,15 +9,15 @@ project_entries:
     highlight: 2013-Present
   - title: Theater
     url: theater
-    desc: Theater work (Actor, Director, Scriptwriter, Audio Producer)
+    desc: My work in theater so far (Actor, Director, Scriptwriter, Audio Producer)
     highlight: 2013-2020
   - title: Writing
     url: writing
-    desc: Writing work
+    desc: My creative writing samples
     highlight: 2020-Present
   - title: Coding
     url: coding
-    desc: Coding!
+    desc: My coding projects, profiles, and resume
     highlight: 2020-Present
   - title: Tinkering
     url: tinkering
