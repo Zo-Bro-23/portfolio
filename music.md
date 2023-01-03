@@ -55,4 +55,6 @@ Lyrics, Composition, and Rendition by Zohan Subhash
 <iframe width="487" height="274" src="https://www.youtube.com/embed/0wsDWLHKqxU" title="Leave Me, Loathsome Light!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Listening preferences :)
-<a href="https://www.last.fm/user/ZoBro23"><img width="" alt="My Last.FM" title="My Last.FM" src="https://lastfm-recently-played.vercel.app/api?user=ZoBro23"/></a>
+<p align="left">
+    <a href="https://www.last.fm/user/ZoBro23"><img width="" alt="My Last.FM" title="My Last.FM" src="https://lastfm-recently-played.vercel.app/api?user=ZoBro23"/></a>
+</p>

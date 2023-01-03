@@ -6,10 +6,10 @@ title: Coding
 - [GitHub](https://github.com/Zo-Bro-23)
 - [LinkedIn](https://linkedin.com/in/zobro23)
 - [Fiverr](https://fiverr.com/zobro23)
-- [Terminal Portfolio](https://portfolio.zohan.tech) (my portfolio in an interactive terminal format)
 
 ## Projects
 ### [ZoAuth](https://npmjs.com/package/zoauth)
+*Demo live [here](https://demo.zoauth.zohan.tech)!*
 
 <iframe width="974" height="548" src="https://www.youtube.com/embed/jWLpqkWkTiQ" title="Introducing ZoAuth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -20,7 +20,5 @@ title: Coding
 ## Resume
 
 <iframe src="assets/resume.pdf" frameborder="0" width="100%" height="650px"></iframe>
-
-## Coding Profile
 
 {% include_relative assets/readme.md %}

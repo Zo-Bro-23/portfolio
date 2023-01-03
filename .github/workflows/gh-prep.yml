@@ -12,3 +12,6 @@ jobs:
       - name: Set theme
         run: python ./.github/workflows/gh-prep.py
       - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          branch: gh-pages
+          create_branch: true
