@@ -4,7 +4,7 @@ url: https://web.zohan.tech/portfolio # root address of the site
 description: My various projects, interests, and hobbies, as well as a place to showcase my achievements.
 permalink: /:slug
 
-favicon: "logo.png" # relative path to site's favicon
+favicon: "./logo.png" # relative path to site's favicon
 
 # remote_theme: abhinavs/moonwalk
 theme: moonwalk # if you are using GitHub Pages, change it to # remote_theme: abhinavs/moonwalk
