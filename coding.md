@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Coding
-desc: My coding projects, profiles, and resume
+description: My coding projects, profiles, and resume
 ---
 ## Links/Profiles
 - [GitHub](https://github.com/Zo-Bro-23)

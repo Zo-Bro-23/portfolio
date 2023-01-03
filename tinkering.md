@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tinkering
-desc: 3D Printing, Robotics, and Shop Work
+description: 3D Printing, Robotics, and Shop Work
 ---
 ## 3D Printing Projects
 - [Thingiverse](https://thingiverse.com)

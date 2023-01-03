@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Writing
-desc: My creative writing samples
+description: My creative writing samples
 ---
 ## Party Crashers
 *(My first novel!)*

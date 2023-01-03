@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About Me
-desc: myself :)
+description: myself :)
 ---
 High school student trying to get somewhere...
 

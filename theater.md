@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Theater
-desc: My work in theater so far (Actor, Director, Scriptwriter, Audio Producer)
+description: My work in theater so far (Actor, Director, Scriptwriter, Audio Producer)
 ---
 ### Recordings
 #### Lead Actor in Short Film (Age 6) - Won Awards at a National Level
