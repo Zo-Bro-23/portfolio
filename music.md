@@ -56,5 +56,5 @@ Lyrics, Composition, and Rendition by Zohan Subhash
 
 ### Listening preferences :)
 <p align="left">
-    <a href="https://www.last.fm/user/ZoBro23"><img width="" alt="My Last.FM" title="My Last.FM" src="https://lastfm-recently-played.vercel.app/api?user=ZoBro23"/></a>
+    <a href="https://www.last.fm/user/ZoBro23"><img style="margin: 0px;" width="" alt="My Last.FM" title="My Last.FM" src="https://lastfm-recently-played.vercel.app/api?user=ZoBro23"/></a>
 </p>
