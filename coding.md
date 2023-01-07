@@ -6,13 +6,13 @@ description: My coding projects, profiles, and resume
 ## Links/Profiles
 - [GitHub](https://github.com/Zo-Bro-23)
     - <a href="https://github.com/Zo-Bro-23?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Zo-Bro-23?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <img style="margin: 0px;" alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Zo-Bro-23?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
     - <a href="https://github.com/Zo-Bro-23?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Zo-Bro-23?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+    <img style="margin: 0px;" alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Zo-Bro-23?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
     - <a href="https://github.com/Zo-Bro-23/view-count-badge">
-    <img alt="views" title="GitHub profile views" src="https://view-count-badge.zohan.tech/Zo-Bro-23/profile?color=6b105d&labelColor=913e96&style=for-the-badge&logo=eye&label=VISITORS&logoColor=white"/></a>
+    <img style="margin: 0px;" alt="views" title="GitHub profile views" src="https://view-count-badge.zohan.tech/Zo-Bro-23/profile?color=6b105d&labelColor=913e96&style=for-the-badge&logo=eye&label=VISITORS&logoColor=white"/></a>
 - [NPM](https://npmjs.com/~zo-bro-23)
-    - ![Downloads - 2800](https://custom-icon-badges.demolab.com/badge/2800-custom.svg?color=%23E05D44&logo=download&logoColor=white&style=for-the-badge&labelColor=CE4630&label=DOWNLOADS)
+    - <a href=""><img style="margin: 0px;" title="Downloads - 2800" src="https://custom-icon-badges.demolab.com/badge/2800-custom.svg?color=%23E05D44&logo=download&logoColor=white&style=for-the-badge&labelColor=CE4630&label=DOWNLOADS"/></a>
 - [LinkedIn](https://linkedin.com/in/zobro23)
 - [Fiverr](https://fiverr.com/zobro23)
 
@@ -23,7 +23,7 @@ description: My coding projects, profiles, and resume
 - Zero effort OAuth - ZoAuth!
 - Extremely easy OAuth with providers such as Google, Microsoft, Facebook, GitHub, Discord, and Amazon
 - Get running in minutes!
-- ![Downloads - 1292](https://custom-icon-badges.demolab.com/badge/1292-custom.svg?color=%23E05D44&logo=download&logoColor=white&style=for-the-badge&labelColor=CE4630&label=DOWNLOADS)
+- <a href=""><img style="margin: 0px;" title="Downloads - 1292" src="https://custom-icon-badges.demolab.com/badge/1292-custom.svg?color=%23E05D44&logo=download&logoColor=white&style=for-the-badge&labelColor=CE4630&label=DOWNLOADS"/></a>
 - Available on [NPM](https://npmjs.com/package/zoauth)
 
 <iframe width="974" height="548" src="https://www.youtube.com/embed/jWLpqkWkTiQ" title="Introducing ZoAuth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -32,7 +32,7 @@ description: My coding projects, profiles, and resume
 
 - Plugin that integrates OBS Studio and Voicemeeter Potato
 - Voice-controlled scene switching, automatic volume control for each scene, and much more
-- ![Downloads - 932](https://custom-icon-badges.demolab.com/badge/932-custom.svg?color=%23E05D44&logo=download&logoColor=white&style=for-the-badge&labelColor=CE4630&label=DOWNLOADS)
+- <a href=""><img style="margin: 0px;" title="Downloads - 932" src="https://custom-icon-badges.demolab.com/badge/932-custom.svg?color=%23E05D44&logo=download&logoColor=white&style=for-the-badge&labelColor=CE4630&label=DOWNLOADS"/></a>
 
 ### [C29](https://github.com/Zo-Bro-23/c29)
 
@@ -45,7 +45,7 @@ description: My coding projects, profiles, and resume
 - Simulation is based on Hardy-Weinberg Principles
 - Extremely useful for building population genetics models
 - Built it for doing a Mathematical Modelling lab in AP Bio
-- ![Downloads - 258](https://custom-icon-badges.demolab.com/badge/258-custom.svg?color=%23E05D44&logo=download&logoColor=white&style=for-the-badge&labelColor=CE4630&label=DOWNLOADS)
+- <a href=""><img style="margin: 0px;" title="Downloads - 258" src="https://custom-icon-badges.demolab.com/badge/258-custom.svg?color=%23E05D44&logo=download&logoColor=white&style=for-the-badge&labelColor=CE4630&label=DOWNLOADS"/></a>
 - Available on [NPM](https://npmjs.com/package/population-simulation)
 
 ### [Writing Stats](https://writing-stats.zohan.tech)
@@ -53,7 +53,7 @@ description: My coding projects, profiles, and resume
 - Get stats about your writing!
 - What's your average word length? Paragraph length? What's your writing style?
 - Built it for a Rhetorical Analysis assignment in one of my English classes
-- ![Downloads - 560](https://custom-icon-badges.demolab.com/badge/560-custom.svg?color=%23E05D44&logo=download&logoColor=white&style=for-the-badge&labelColor=CE4630&label=DOWNLOADS)
+- <a href=""><img style="margin: 0px;" title="Downloads - 560" src="https://custom-icon-badges.demolab.com/badge/560-custom.svg?color=%23E05D44&logo=download&logoColor=white&style=for-the-badge&labelColor=CE4630&label=DOWNLOADS"/></a>
 - Available on [NPM](https://npmjs.com/package/writing-stats)
 
 ## Resume
