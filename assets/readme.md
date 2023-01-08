@@ -24,7 +24,6 @@
   <a href="https://www.thingiverse.com/zobro23/"><img style="margin: 0px; display: inline;" width="32px" title="Thingiverse" src="https://i.imgur.com/sjvRVzs.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-<br/>
 
 <p align="center">
   <a href="https://artist.link/zobro23"><img style="margin: 0px; display: inline;" width="32px" title="SongLink" src="https://i.imgur.com/pfBS0xC.png"/></a>
@@ -40,7 +39,6 @@
   <a href="https://soundcloud.com/zobro23"><img style="margin: 0px; display: inline;" width="32px" title="SoundCloud" src="https://i.imgur.com/jAIlfwk.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
-<br/>
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
