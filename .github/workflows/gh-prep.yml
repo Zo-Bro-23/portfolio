@@ -1,5 +1,6 @@
 name: GH Pages Prep
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
