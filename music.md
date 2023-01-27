@@ -12,7 +12,7 @@ description: Piano, Western Vocals, and other music-related projects
 ### Performances
 #### Moonlight Sonata by Beethoven
 
-<p align="center">
+<p align="left">
   <a href="https://album.link/moonlight-sonata"><img style="margin: 0px; display: inline;" width="32px" title="SongLink" src="https://i.imgur.com/pfBS0xC.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://open.spotify.com/album/7KRevugUlgGQqXYP6PxDfQ"><img style="margin: 0px; display: inline;" width="32px" title="Spotify" src="https://i.imgur.com/UTw76o4.png"></a>
@@ -59,7 +59,7 @@ description: Piano, Western Vocals, and other music-related projects
 #### Meiosis Here to Save the Day by ZoBro23
 Lyrics, Composition, and Rendition by Zohan Subhash
 
-<p align="center">
+<p align="left">
   <a href="https://song.link/meiosis-here-to-save-the-day"><img style="margin: 0px; display: inline;" width="32px" title="SongLink" src="https://i.imgur.com/pfBS0xC.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://open.spotify.com/track/1zcO7q4SbMcw96ZLPysQop"><img style="margin: 0px; display: inline;" width="32px" title="Spotify" src="https://i.imgur.com/UTw76o4.png"></a>
