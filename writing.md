@@ -100,7 +100,7 @@ Although Henrietta’s story has an arguably happy ending, this is not always th
 **Worth a special mention:**
 - *[The Immortal Life of Henrietta Lacks](https://www.google.co.in/books/edition/The_Immortal_Life_of_Henrietta_Lacks/tzlqDwAAQBAJ?hl=en&gbpv=0)* by Rebecca Skloot, 2019
 
-Bibliography:
+**Bibliography**:
 - [Henrietta Lacks](https://en.wikipedia.org/wiki/Henrietta_Lacks), Wikipedia
 - [HeLa](https://en.wikipedia.org/wiki/HeLa#cite_note-16), Wikipedia
 - [Johns Hopkins Hospital](https://en.wikipedia.org/wiki/Johns_Hopkins_Hospital), Wikipedia
@@ -114,7 +114,7 @@ Bibliography:
 - [The Immortal Life of Henrietta Lacks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3516052/), NCBI
 - [Moore v. Regents of the University of California](https://en.wikipedia.org/wiki/Moore_v._Regents_of_the_University_of_California), Wikipedia
 - [The Importance of HeLa Cells](https://www.hopkinsmedicine.org/henriettalacks/importance-of-hela-cells.html), Johns Hopkins Medicine
-- [Henrietta Lacks | Her Impact and Our Outreach](https://www.youtube.com/watch?v=SPLSp7Tf3bw), Johns Hopkins Medicine
+- [Henrietta Lacks - Her Impact and Our Outreach](https://www.youtube.com/watch?v=SPLSp7Tf3bw), Johns Hopkins Medicine
 
 ## The Warden
 > *Instructions: A short story with emphasis on the techniques of show-and-tell and tension*
