@@ -72,14 +72,14 @@
 <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 <p align="center">
-  <a href="https://github.com/Zo-Bro-23/zoauth"><img style="margin: 0px; display: inline;" width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=zoauth&theme=great-gatsby"></a>
-  <a href="https://github.com/Zo-Bro-23/c29"><img style="margin: 0px; display: inline;" width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=c29&theme=great-gatsby"></a>
-  <a href="https://github.com/Zo-Bro-23/obs-voicemeeter-integration"><img style="margin: 0px; display: inline;" width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=obs-voicemeeter-integration&theme=great-gatsby"></a>
-  <a href="https://github.com/Zo-Bro-23/batch-file-bot"><img style="margin: 0px; display: inline;" width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=batch-file-bot&theme=great-gatsby"></a>
-  <a href="https://github.com/Zo-Bro-23/zoauth-demoApp"><img style="margin: 0px; display: inline;" width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=zoauth-demoApp&theme=great-gatsby"></a>
-  <a href="https://github.com/Zo-Bro-23/population-simulation-web"><img style="margin: 0px; display: inline;" width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=population-simulation-web&theme=great-gatsby"></a>
-  <a href="https://github.com/Zo-Bro-23/automatic-git-commits"><img style="margin: 0px; display: inline;" width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=automatic-git-commits&theme=great-gatsby"></a>
-  <a href="https://github.com/Zo-Bro-23/zms"><img style="margin: 0px; display: inline;" width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=zms&theme=great-gatsby"></a>
+  <a href="https://github.com/Zo-Bro-23/zoauth"><img style="margin: 0px; display: inline;" width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=zoauth&theme=prussian&hide_border=true"></a>
+  <a href="https://github.com/Zo-Bro-23/c29"><img style="margin: 0px; display: inline;" width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=c29&theme=prussian&hide_border=true"></a>
+  <a href="https://github.com/Zo-Bro-23/obs-voicemeeter-integration"><img style="margin: 0px; display: inline;" width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=obs-voicemeeter-integration&theme=prussian&hide_border=true"></a>
+  <a href="https://github.com/Zo-Bro-23/batch-file-bot"><img style="margin: 0px; display: inline;" width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=batch-file-bot&theme=prussian&hide_border=true"></a>
+  <a href="https://github.com/Zo-Bro-23/zoauth-demoApp"><img style="margin: 0px; display: inline;" width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=zoauth-demoApp&theme=prussian&hide_border=true"></a>
+  <a href="https://github.com/Zo-Bro-23/population-simulation-web"><img style="margin: 0px; display: inline;" width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=population-simulation-web&theme=prussian&hide_border=true"></a>
+  <a href="https://github.com/Zo-Bro-23/automatic-git-commits"><img style="margin: 0px; display: inline;" width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=automatic-git-commits&theme=prussian&hide_border=true"></a>
+  <a href="https://github.com/Zo-Bro-23/zms"><img style="margin: 0px; display: inline;" width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zo-Bro-23&repo=zms&theme=prussian&hide_border=true"></a>
 </p>
 
 <p align="left">
@@ -90,10 +90,10 @@
 
 <!-- Small repo cards https://github.com/DenverCoder1/github-readme-stats (fork of anuraghazra/github-readme-stats) -->
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img style="margin: 0px; display: inline;" width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=great-gatsby&show_owner=true"></a>
-  <a href="https://github.com/shenuja/himandher"><img style="margin: 0px; display: inline;" width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=shenuja&repo=himandher&theme=great-gatsby&show_owner=true"></a>
-  <a href="https://github.com/Zyplos/discord-readme-badge"><img style="margin: 0px; display: inline;" width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zyplos&repo=discord-readme-badge&theme=great-gatsby&show_owner=true"></a>
-  <a href="https://github.com/th-ch/youtube-music"><img style="margin: 0px; display: inline;" width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=th-ch&repo=youtube-music&theme=great-gatsby&show_owner=true"></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img style="margin: 0px; display: inline;" width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=prussian&hide_border=true&show_owner=true"></a>
+  <a href="https://github.com/shenuja/himandher"><img style="margin: 0px; display: inline;" width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=shenuja&repo=himandher&theme=prussian&hide_border=true&show_owner=true"></a>
+  <a href="https://github.com/Zyplos/discord-readme-badge"><img style="margin: 0px; display: inline;" width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=Zyplos&repo=discord-readme-badge&theme=prussian&hide_border=true&show_owner=true"></a>
+  <a href="https://github.com/th-ch/youtube-music"><img style="margin: 0px; display: inline;" width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=th-ch&repo=youtube-music&theme=prussian&hide_border=true&show_owner=true"></a>
 </p>
 
 <p align="left">
