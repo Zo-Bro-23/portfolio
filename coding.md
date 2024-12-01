@@ -23,16 +23,21 @@ description: My coding projects, profiles, and resume
 - Zero effort OAuth - ZoAuth!
 - Extremely easy OAuth with providers such as Google, Microsoft, Facebook, GitHub, Discord, and Amazon
 - Get running in minutes!
-- <a href="https://npmjs.com/package/zoauth"><img style="margin: 0px;" title="Downloads - 1503" src="https://custom-icon-badges.demolab.com/badge/1503-custom.svg?color=%23E05D44&logo=download&logoColor=white&style=for-the-badge&labelColor=CE4630&label=DOWNLOADS"/></a>
-- Available on [NPM](https://npmjs.com/package/zoauth)
 
 <iframe width="974" height="548" src="https://www.youtube.com/embed/jWLpqkWkTiQ" title="Introducing ZoAuth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### [Discord Status Notification](https://github.com/Zo-Bro-23/discord-status-notification)
+
+- Easy configuration with a Discord bot token
+- Get notifications on when your friends are online or when their status changes
+- Easily enable and disable notifications for certain users
+- See details about what device they are online on
 
 ### [OBS Voicemeeter Integration](https://github.com/Zo-Bro-23/obs-voicemeeter-integration)
 
 - Plugin that integrates OBS Studio and Voicemeeter Potato
 - Voice-controlled scene switching, automatic volume control for each scene, and much more
-- <a href="https://github.com/Zo-Bro-23/obs-voicemeeter-integration/releases"><img style="margin: 0px;" title="Downloads - 985" src="https://custom-icon-badges.demolab.com/badge/985-custom.svg?color=%23E05D44&logo=download&logoColor=white&style=for-the-badge&labelColor=CE4630&label=DOWNLOADS"/></a>
+- <a href="https://github.com/Zo-Bro-23/obs-voicemeeter-integration/releases"><img style="margin: 0px;" title="Downloads - 2189" src="https://custom-icon-badges.demolab.com/badge/2189-custom.svg?color=%23E05D44&logo=download&logoColor=white&style=for-the-badge&labelColor=CE4630&label=DOWNLOADS"/></a>
 
 ### [C29](https://github.com/Zo-Bro-23/c29)
 
@@ -45,16 +50,12 @@ description: My coding projects, profiles, and resume
 - Simulation is based on Hardy-Weinberg Principles
 - Extremely useful for building population genetics models
 - Built it for doing a Mathematical Modelling lab in AP Bio
-- <a href="https://npmjs.com/package/population-simulation"><img style="margin: 0px;" title="Downloads - 290" src="https://custom-icon-badges.demolab.com/badge/290-custom.svg?color=%23E05D44&logo=download&logoColor=white&style=for-the-badge&labelColor=CE4630&label=DOWNLOADS"/></a>
-- Available on [NPM](https://npmjs.com/package/population-simulation)
 
 ### [Writing Stats](https://writing-stats.zohan.tech)
 
 - Get stats about your writing!
 - What's your average word length? Paragraph length? What's your writing style?
 - Built it for a Rhetorical Analysis assignment in one of my English classes
-- <a href="https://npmjs.com/package/writing-stats"><img style="margin: 0px;" title="Downloads - 583" src="https://custom-icon-badges.demolab.com/badge/583-custom.svg?color=%23E05D44&logo=download&logoColor=white&style=for-the-badge&labelColor=CE4630&label=DOWNLOADS"/></a>
-- Available on [NPM](https://npmjs.com/package/writing-stats)
 
 ## Resume
 
