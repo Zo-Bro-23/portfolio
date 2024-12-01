@@ -56,8 +56,4 @@ description: My coding projects, profiles, and resume
 - What's your average word length? Paragraph length? What's your writing style?
 - Built it for a Rhetorical Analysis assignment in one of my English classes
 
-## Resume
-
-<iframe src="assets/resume.pdf" frameborder="0" width="100%" height="650px"></iframe>
-
 {% include_relative assets/readme.md %}
