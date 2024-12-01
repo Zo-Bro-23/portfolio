@@ -7,11 +7,12 @@ High school student trying to get somewhere...
 
 I'm into:
 - Coding
-- Music
+- Acting
 - Tinkering
+- Writing
 - Minecraft
 - Euro Truck Simulator 2 and Microsoft Flight Simulator
 - YouTube (hardcore)
 - People
 
-I'm currently homeschooled, and I take online courses from institutions like Johns Hopkins CTY, Art of Problem Solving, and PA Homeschoolers. Taking 6 AP courses now - it's hard, but it's also fun :)
+After being homeschooled for three years, I moved to the US to attend boarding school. I currently go to Deerfield Academy, and I'm dabbling in all of interests, trying to figure out where life will take me :)
