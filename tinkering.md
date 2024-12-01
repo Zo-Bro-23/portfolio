@@ -4,7 +4,7 @@ title: Tinkering
 description: 3D Printing, Robotics, and Shop Work
 ---
 ## 3D Printing Projects
-- [Thingiverse](https://thingiverse.com)
+- [Thingiverse](https://www.thingiverse.com/zobro23/designs)
 - [GitHub](https://github.com/Zo-Bro-23/3D-Printing)
 
 ![3D Printing Projects](assets/3DPrinting.jpg)
