@@ -3,26 +3,26 @@ navbar_entries:
     url: about
 
 project_entries:
-  - title: Music
-    url: music
-    desc: Piano, Western Vocals, and other music-related projects
-    highlight: 2013-Present
-  - title: Theater
-    url: theater
-    desc: My work in theater so far (Actor, Director, Scriptwriter, Audio Producer)
-    highlight: 2013-2020
-  - title: Writing
-    url: writing
-    desc: My creative writing samples
-    highlight: 2020-Present
   - title: Coding
     url: coding
     desc: My coding projects, profiles, and resume
+    highlight: 2020-Present
+  - title: Writing
+    url: writing
+    desc: My creative writing samples
     highlight: 2020-Present
   - title: Tinkering
     url: tinkering
     desc: 3D Printing, Robotics, and Shop Work
     highlight: 2016-Present
+  - title: Theater
+    url: theater
+    desc: My work in theater so far (Actor, Director, Scriptwriter, Audio Producer)
+    highlight: 2013-2020, 2023-Present
+  - title: Music
+    url: music
+    desc: Piano, Western Vocals, and other music-related projects
+    highlight: 2013-2022
     
 footer_entries:
   - title: GitHub
