@@ -7,52 +7,52 @@ description: My creative writing samples
 the phone rang i ignored it the phone rang ‘twas the old man the pulse of the beat across my ear i want to why not pick it up kavanaugh he croaks the grating of metal on wood good to hear ya voice young lad ‘twasn’t how’s the old situation coming along ‘twasn’t y’know i’m gonna need a little help with a little somethin’ here i ain’t helping you run your little scandal there rooster well the election’s coming up he says and if i ain’t happy with my results well you might have to live to see the wires being cut off your little toy shop there and i can hear his stupid grin through the phone the bastard i can feel myself caving on one hand you got people like barty that fucking son of a bitch screws everyone over and doesn’t feel an ounce of remorse makin’ out with jessica right in front of my eyes doesn’t think twice ‘bout it his heart done got cold as fuck and on the other hand you got people like me pussying over funding soon as the old man says he gon’ pull out i wouldn’t be surprised if barty’d been peddling with the trust but oh yeah and that friend of yours rooster screeches ya tell him to stop blathering ‘bout me ya hear me well fuck you rooster i say my friends gon’ say what they feel like sayin’ and if you don’t like that well that’s just too bad ain’t it and soon as i said it i knew i had screwed myself over and a shot of electricity flew through the phone and everything went black and i slumped onto the floor and the room was empty and there was no one in there but me and i was out
 
 ## the only one.
-1.
-The sea on my feet, and your breath on my hair, and everything is the way it’s meant to be.
-The warmth of your shoulder, the brush of cloth on cloth, is enough
-To last me through the winter.
-The sand whirls through my feet, but I will not fall–
-Why would I, if only for you
-To pick me up again?
-I love her as a friend
-Right?
-She asks.
-
-2.
-Your eyes.
-Your eyes!
-Sculpted exquisitely from marbles, gleaming in the sunrise sunlight, looking down on me
-as kindly as a soul ever could.
-Your hair, flying in the wind, your smile, the most beautiful in the world–
-I have known you five minutes,
-and my life is incomplete without you.
-Does she have a
-boyfriend?
-He asks.
-
-3.
-Your arms slip slowly out of mine, and go you must you say, for someone or something calls you, you say
-More important than me.
-A lonely tree stump but I am in the sand
-For how can I wake, and how can I walk, and how can I speak?
-Without warmth to keep me alive.
-Am I interested in her?
-She asks.
-
-4.
-You laugh, and you jump, and you smile, and you hug, and all I need is that.
-To know that you are happy.
-You are to me not what I am to you.
-You are everything to me.
-
-5.
-Am I in love with her?
-They ask.
-
-6.
-No I’m fucking not.
-
-7.
+1.<br>
+The sea on my feet, and your breath on my hair, and<br> &emsp;&emsp;everything is the way it’s meant to be.<br>
+The warmth of your shoulder, the brush of cloth on cloth, is<br> &emsp;&emsp;enough
+To last me through the winter.<br>
+The sand whirls through my feet, but I will not fall–<br>
+Why would I, if only for you<br>
+To pick me up again?<br>
+I love her as a friend<br>
+Right?<br>
+She asks.<br>
+<br>
+2.<br>
+Your eyes.<br>
+Your eyes!<br>
+Sculpted exquisitely from marbles, gleaming in the sunrise<br> &emsp;&emsp;sunlight, looking down on me<br>
+as kindly as a soul ever could.<br>
+Your hair, flying in the wind, your smile, the most beautiful<br> &emsp;&emsp;in the world–<br>
+I have known you five minutes,<br>
+and my life is incomplete without you.<br>
+Does she have a<br>
+boyfriend?<br>
+He asks.<br>
+<br>
+3.<br>
+Your arms slip slowly out of mine, and go you must you<br>&emsp;&emsp; say, for someone or something calls you, you say<br>
+More important than me.<br>
+A lonely tree stump but I am in the sand<br>
+For how can I wake, and how can I walk, and how can I<br>&emsp;&emsp; speak?<br>
+Without warmth to keep me alive.<br>
+Am I interested in her?<br>
+She asks.<br>
+<br>
+4.<br>
+You laugh, and you jump, and you smile, and you hug, and<br>&emsp;&emsp; all I need is that.<br>
+To know that you are happy.<br>
+You are to me not what I am to you.<br>
+You are everything to me.<br>
+<br>
+5.<br>
+Am I in love with her?<br>
+They ask.<br>
+<br>
+6.<br>
+No I’m fucking not.<br>
+<br>
+7.<br>
 Not everything in this world is one or the other.
 
 ## mountains.
