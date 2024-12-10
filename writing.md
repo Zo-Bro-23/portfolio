@@ -3,6 +3,9 @@ layout: post
 title: Writing
 description: My creative writing samples
 ---
+## to seek peace.
+<iframe width="1440" height="526" src="https://www.youtube.com/embed/5qQlv18Lgic" title="To Seek Peace" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## phone.
 the phone rang i ignored it the phone rang ‘twas the old man the pulse of the beat across my ear i want to why not pick it up kavanaugh he croaks the grating of metal on wood good to hear ya voice young lad ‘twasn’t how’s the old situation coming along ‘twasn’t y’know i’m gonna need a little help with a little somethin’ here i ain’t helping you run your little scandal there rooster well the election’s coming up he says and if i ain’t happy with my results well you might have to live to see the wires being cut off your little toy shop there and i can hear his stupid grin through the phone the bastard i can feel myself caving on one hand you got people like barty that fucking son of a bitch screws everyone over and doesn’t feel an ounce of remorse makin’ out with jessica right in front of my eyes doesn’t think twice ‘bout it his heart done got cold as fuck and on the other hand you got people like me pussying over funding soon as the old man says he gon’ pull out i wouldn’t be surprised if barty’d been peddling with the trust but oh yeah and that friend of yours rooster screeches ya tell him to stop blathering ‘bout me ya hear me well fuck you rooster i say my friends gon’ say what they feel like sayin’ and if you don’t like that well that’s just too bad ain’t it and soon as i said it i knew i had screwed myself over and a shot of electricity flew through the phone and everything went black and i slumped onto the floor and the room was empty and there was no one in there but me and i was out
 
