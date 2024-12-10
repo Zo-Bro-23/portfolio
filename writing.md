@@ -9,7 +9,7 @@ the phone rang i ignored it the phone rang ‘twas the old man the pulse of the 
 ## the only one.
 1.<br>
 The sea on my feet, and your breath on my hair, and<br> &emsp;&emsp;everything is the way it’s meant to be.<br>
-The warmth of your shoulder, the brush of cloth on cloth, is<br> &emsp;&emsp;enough
+The warmth of your shoulder, the brush of cloth on cloth, is<br> &emsp;&emsp;enough<br>
 To last me through the winter.<br>
 The sand whirls through my feet, but I will not fall–<br>
 Why would I, if only for you<br>
@@ -40,7 +40,8 @@ Am I interested in her?<br>
 She asks.<br>
 <br>
 4.<br>
-You laugh, and you jump, and you smile, and you hug, and<br>&emsp;&emsp; all I need is that.<br>
+Your smile is the warmest moon, and your face lights us up<br>&emsp;&emsp; brighter than the night sky,<br>
+You come running to me, arms outstretched, and all I need<br>&emsp;&emsp; is that.<br>
 To know that you are happy.<br>
 You are to me not what I am to you.<br>
 You are everything to me.<br>
@@ -59,37 +60,37 @@ Not everything in this world is one or the other.
 The mountains bask in glorious evening light, their peaks crested with the golden rays of hope and joy, and I, atop this one of noble many, much the same, have found what I have been searching for all my life: peace – peace with what I am, and what I am to this world, and as I look over at the sprawling fields in green and blue and pink and green, I feel a strangeness settle over me, and for once there is no work to be done when I get home, nothing due this week, or the next, and nobody to follow up with, because for once, I am doing the most important job in the world, at this moment, and nothing else matters; I turn to look at Jack, and suddenly, I feel the urge to squeeze his hand, but I don’t – I wonder if he’ll find it weird – find me weird, and think that I’m trying to make more out of this relationship than he is, and as I process that thought, I realize that I don’t care – I don’t care what he thinks, because right here, on the top of the world, it doesn’t matter what he thinks – it only matters what I think, and I want to hold hands with him, and so I gently take his hands in mine, and I squeeze them, softly at first, then harder, and I glimpse at him from the corner of my eye, and he turns to look at me, and he smiles, gently, softly, so mesmerizingly, and I smile back, or at least, I try to, and he reaches into his pocket with his other hand and he pulls it out – the small, ornate, red, velvet box – the box that caused everything, the box that brought us here, the box that made me meet him – “open it?” he asked, and I shook my head – immediately, surprising myself, for wasn’t this all that mattered, and wasn’t this why we were here, but no – I did not want to open the box, and I did not want to see what was inside, for whatever it was, and whatever I could gain from it – we could gain from it – it had already done the impossible, and it had brought us together, and it has made me happy, made me enjoy life, and made me not want to kill myself every single second of every single day, and there was nothing more that I could ask of it.
 
 ## she struggles.
-1.
-Lightning strikes hard, like the wind strikes hard, and the rain strikes hard
-on my tender, calloused skin. My feet hit the ground,
-and I am jolted with the electricity, of the lightning above.
-You run below me, fleeting
-but you cannot get away.
-Closer, you get a looming figure into my heart,
-forever alone.
-
-2.
-I can save you, I can touch you.
-My hands are outstretched.
-I can sweep
-you up. You will run,
-with me. You will fly, to God.
-But you don’t
-take me.
-
-3.
-Am I not loving? Do I not care for you?
-Why does she run,
-away from me. She struggles so, shaking hard, free nonetheless.
-When I can save her.
-
-4.
-The trees move in mockery,
-For I am,
-worse than they. She
-goes to them.
-
-5.
-I am lost. This
-is what it feels like,
-To love.
+1.<br>
+Lightning strikes hard, like the wind strikes hard, and the<br>&emsp;&emsp; rain strikes hard<br>
+on my tender, calloused skin. My feet hit the ground,<br>
+and I am jolted with the electricity, of the lightning above.<br>
+You run below me, fleeting<br>
+but you cannot get away.<br>
+Closer, you get a looming figure into my heart,<br>
+forever alone.<br>
+<br>
+2.<br>
+I can save you, I can touch you.<br>
+My hands are outstretched.<br>
+I can sweep<br>
+you up. You will run,<br>
+with me. You will fly, to God.<br>
+But you don’t<br>
+take me.<br>
+<br>
+3.<br>
+Am I not loving? Do I not care for you?<br>
+Why does she run,<br>
+away from me. She struggles so, shaking hard, free<br>&emsp;&emsp; nonetheless.<br>
+When I can save her.<br>
+<br>
+4.<br>
+The trees move in mockery,<br>
+For I am,<br>
+worse than they. She<br>
+goes to them.<br>
+<br>
+5.<br>
+I am lost. This<br>
+is what it feels like,<br>
+To love.<br>
