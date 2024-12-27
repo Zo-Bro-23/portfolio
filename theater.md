@@ -13,6 +13,8 @@ description: My work in theater and filmmaking so far
 ![130](https://github.com/user-attachments/assets/eed65934-5e31-4199-aab0-976f91a9e453)
 ![122](https://github.com/user-attachments/assets/643f7892-9134-404f-ad82-d219ce63b228)
 
+[More Photographs](https://zobro23.pic-time.com/-crucible)
+
 ### (Filmmaking) The Crucible Trailer
 #### Produced a trailer for The Crucible
 <iframe width="974" height="548" src="https://www.youtube.com/embed/l_0EsAnysqo" title="&quot;The Crucible&quot; at Deerfield Academy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
