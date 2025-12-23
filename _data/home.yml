@@ -5,28 +5,41 @@ navbar_entries:
 project_entries:
   - title: Coding
     url: coding
-    desc: My coding projects, profiles, and resume
-    highlight: 2020-Present
-  - title: Writing
-    url: writing
-    desc: My creative writing samples
-    highlight: 2020-Present
-  - title: Tinkering
-    url: tinkering
-    desc: 3D Printing, Robotics, and Shop Work
-    highlight: 2016-Present
+    desc: Personal coding projects and resume
+    highlight: 6 years
+  - title: Engineering
+    url: engineering
+    desc: My Digital Logic final project and some older work
+    highlight: 9 years
+  - title: Gifts
+    url: gifts
+    desc: Gifts I have built for people using engineering
+    highlight: 4 years
+  - title: MSK Internship
+    url: msk
+    desc: Work I did during my internship at MSKCC
+  - title: Cross-Disciplinary Schoolwork
+    url: schoolwork
+    desc: Engineering projects I did for schoolwork in other subjects
+    highlight: 3 years
+
+old_project_entries:
   - title: Theater
     url: theater
-    desc: My work in theater and filmmaking so far
-    highlight: 2013-Present
-  - title: Music
-    url: music
-    desc: Piano, Western Vocals, and other music-related projects
-    highlight: 2013-2022
+    desc: Recordings from theater and filmmaking
+    highlight: 13 years
+  - title: Writing
+    url: writing
+    desc: Some creative writing samples
+    highlight: 5 years
   - title: Photo
     url: https://zobro23.pic-time.com/
     desc: Photography portfolio gallery
-    highlight: 2024-Present
+    highlight: 1 year
+  - title: Music
+    url: music
+    desc: Piano and vocal recordings
+    highlight: 10 years
     
 footer_entries:
   - title: GitHub
