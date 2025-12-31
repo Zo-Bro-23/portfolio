@@ -15,22 +15,38 @@ As for making the device aesthetically pleasing, I laser cut an acrylic platform
 
 Most of the work was my own with no outside help. I used AI to create the large hardcoded Verilog busses for the matrix alphabet. I experimented with AI to see how useful it would be on the Arduino code, and didn’t like how it took the fun away from coding, so stuck to doing it by myself.
 
-![](./assets/maker/matrix1.png)
-![](./assets/maker/matrix2.png)
-![](./assets/maker/matrix3.png)
-![](./assets/maker/matrix4.png)
-![](./assets/maker/matrix5.png)
-![](./assets/maker/matrix6.png)
+{% include image-grid.html cols=3
+  img1="matrix1.png"
+  img2="matrix2.png"
+  img3="matrix3.png"
+%}
+{% include image-grid.html cols=3
+  img1="matrix4.png"
+  img2="matrix5.png"
+  img3="matrix6.png"
+%}
 *Initial progress with LED matrix. 1, 2, 3, and 4 show matrix controlled by FPGA. 5 and 6 show matrix controlled by Raspberry Pi (black stripes due to camera flicker).*
 
-![](./assets/maker/pcb1.png)
-![](./assets/maker/pcb2.png)
-![](./assets/maker/pcb3.png)
+{% include image-grid.html cols=1
+  img1="pcb1.png"
+%}
+{% include image-grid.html cols=1
+  img1="pcb2.png"
+%}
+{% include image-grid.html cols=1
+  img1="pcb3.png"
+%}
 *PCB Board and demonstration of LED matrix’s magnetic spikes*
 
-![](./assets/maker/morse1.png)
-![](./assets/maker/morse2.png)
-![](./assets/maker/morse3.png)
+{% include image-grid.html cols=1
+  img1="morse1.png"
+%}
+{% include image-grid.html cols=1
+  img1="morse2.png"
+%}
+{% include image-grid.html cols=1
+  img1="morse3.png"
+%}
 *Final Product. Code: [https://github.com/Zo-Bro-23/led-matrix]()*
 
 #### Morse Only
