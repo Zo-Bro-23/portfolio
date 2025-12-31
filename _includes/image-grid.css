@@ -16,6 +16,19 @@
   grid-template-columns: repeat(3, 1fr);
 }
 
+.image-grid.cols-4 {
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.image-grid.cols-5 {
+  grid-template-columns: repeat(5, 1fr);
+}
+
+
+.image-grid.cols-6 {
+  grid-template-columns: repeat(6, 1fr);
+}
+
 .image-grid img {
   width: 100%;
   height: auto;
@@ -30,7 +43,10 @@
 /* Mobile safety */
 @media (max-width: 768px) {
   .image-grid.cols-2,
-  .image-grid.cols-3 {
+  .image-grid.cols-3,
+  .image-grid.cols-4,
+  .image-grid.cols-5,
+  .image-grid.cols-6 {
     grid-template-columns: 1fr;
   }
 }
