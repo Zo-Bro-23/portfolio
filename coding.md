@@ -2,6 +2,7 @@
 layout: post
 title: Coding
 description: Personal coding projects
+css: true
 ---
 <style>
 {% include image-grid.css %}
@@ -51,7 +52,7 @@ I reverse engineered the login APIs and cookie authentication format and wrote c
 - Information such as Faculty Advisor, Dorm Resident, Sitdown Tables, Cocurriculars, etc were clickable links (as opposed to plaintext)
 - Students and Faculty could be filtered by first name (in addition to last name)
 
-{% include image-grid.html cols=2
+{% include image-grid.html cols=1
   img1="daWeb1.png"
   img2="daWeb2.png"
 %}
