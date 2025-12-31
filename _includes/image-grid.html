@@ -1,4 +1,8 @@
-{% assign cols = include.cols | default: 1 %}
+{% if include.cols %}
+{% assign cols = include.cols %}
+{% else %}
+{% assign cols = 2 %}
+{% endif %}
 
 <div class="image-grid cols-{{ cols }}">
     {% if include.img1 %}<img src="/assets/maker/{{ include.img1 }}" alt="">{% endif %}
