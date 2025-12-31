@@ -77,4 +77,4 @@ From the top:
 
 #### Obstacle-sensing car
 
-<iframe width="487" height="274" src="https://www.youtube.com/embed/wvp22Te1N5U" title="Arduino Car with Obstacle Detection" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-video" src="https://www.youtube.com/embed/wvp22Te1N5U" title="Arduino Car with Obstacle Detection" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
