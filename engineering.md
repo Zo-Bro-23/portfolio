@@ -3,6 +3,9 @@ layout: post
 title: Engineering
 description: My Digital Logic final project and some older work
 ---
+<style>
+{% include image-grid.css %}
+</style>
 ## Digital Logic & LED Matrix
 #### ***Morse Code Radio Communication Device***
 Our final project in Digital Logic was to “build something using an FPGA”. I was very interested in LED matrices because they seemed cool. I wanted to build an LED matrix and animate it. I started thinking how I would control the large number of LEDs, and not being able to figure out an efficient solution, did research on LED matrices. I understood how electronic signals are encoded for the HUB75 protocol. I learnt the mechanics of shift-registers and latches, and even the theory of how an LED matrix is made. My teacher recommended that I buy a prebuilt LED matrix and learn to control it using an FPGA so that I wouldn’t waste time soldering and building with a tedious number of LEDs.
