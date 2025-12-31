@@ -30,3 +30,11 @@
     grid-template-columns: 1fr;
   }
 }
+
+.responsive-video {
+  width: 75%; /* 75% of parent container */
+  aspect-ratio: 16/9; /* keeps 16:9 ratio automatically */
+  display: block;
+  margin: 0 auto; /* center horizontally */
+  max-width: 100%; /* prevents overflow on small screens */
+}

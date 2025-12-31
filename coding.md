@@ -59,7 +59,9 @@ I reverse engineered the login APIs and cookie authentication format and wrote c
 
 {% include image-grid.html cols=2
   img1="daInitialLogin.png"
+  spanX1=1
   img2="daInitialWeb.png"
+  spanX2=4
 %}
 {% include image-grid.html cols=3
   img1="daInitialHome.png"
@@ -148,7 +150,7 @@ Fork of the face recognition code with training images removed: [https://github.
 - Zero effort OAuth - ZoAuth!
 - Extremely easy OAuth with providers such as Google, Microsoft, Facebook, GitHub, Discord, and Amazon
 
-<iframe width="974" height="548" src="https://www.youtube.com/embed/jWLpqkWkTiQ" title="Introducing ZoAuth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="responsive-video" src="https://www.youtube.com/embed/jWLpqkWkTiQ" title="Introducing ZoAuth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### [C29](https://github.com/Zo-Bro-23/c29)
 

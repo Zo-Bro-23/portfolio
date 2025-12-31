@@ -5,10 +5,10 @@
 {% endif %}
 
 <div class="image-grid cols-{{ cols }}">
-    {% if include.img1 %}<img src="{{ '/assets/maker/' | append: include.img1 | relative_url }}" alt="">{% endif %}
-    {% if include.img2 %}<img src="{{ '/assets/maker/' | append: include.img2 | relative_url }}" alt="">{% endif %}
-    {% if include.img3 %}<img src="{{ '/assets/maker/' | append: include.img3 | relative_url }}" alt="">{% endif %}
-    {% if include.img4 %}<img src="{{ '/assets/maker/' | append: include.img4 | relative_url }}" alt="">{% endif %}
-    {% if include.img5 %}<img src="{{ '/assets/maker/' | append: include.img5 | relative_url }}" alt="">{% endif %}
-    {% if include.img6 %}<img src="{{ '/assets/maker/' | append: include.img6 | relative_url }}" alt="">{% endif %}
+    {% if include.img1 %}<img src="{{ '/assets/maker/' | append: include.img1 | relative_url }}" alt="" {% if include.spanX1 %}style="grid-column: span {{ spanX1 }};"{% endif %}>{% endif %}
+    {% if include.img2 %}<img src="{{ '/assets/maker/' | append: include.img2 | relative_url }}" alt="" {% if include.spanX2 %}style="grid-column: span {{ spanX2 }};"{% endif %}>{% endif %}
+    {% if include.img3 %}<img src="{{ '/assets/maker/' | append: include.img3 | relative_url }}" alt="" {% if include.spanX3 %}style="grid-column: span {{ spanX3 }};"{% endif %}>{% endif %}
+    {% if include.img4 %}<img src="{{ '/assets/maker/' | append: include.img4 | relative_url }}" alt="" {% if include.spanX4 %}style="grid-column: span {{ spanX4 }};"{% endif %}>{% endif %}
+    {% if include.img5 %}<img src="{{ '/assets/maker/' | append: include.img5 | relative_url }}" alt="" {% if include.spanX5 %}style="grid-column: span {{ spanX5 }};"{% endif %}>{% endif %}
+    {% if include.img6 %}<img src="{{ '/assets/maker/' | append: include.img6 | relative_url }}" alt="" {% if include.spanX6 %}style="grid-column: span {{ spanX6 }};"{% endif %}>{% endif %}
 </div>
