@@ -5,10 +5,10 @@
 {% endif %}
 
 <div class="image-grid cols-{{ cols }}">
-    {% if include.img1 %}<img src="{{ site.baseurl }}/assets/maker/{{ include.img1 }}" alt="">{% endif %}
-    {% if include.img2 %}<img src="{{ site.baseurl }}/assets/maker/{{ include.img2 }}" alt="">{% endif %}
-    {% if include.img3 %}<img src="{{ site.baseurl }}/assets/maker/{{ include.img3 }}" alt="">{% endif %}
-    {% if include.img4 %}<img src="{{ site.baseurl }}/assets/maker/{{ include.img4 }}" alt="">{% endif %}
-    {% if include.img5 %}<img src="{{ site.baseurl }}/assets/maker/{{ include.img5 }}" alt="">{% endif %}
-    {% if include.img6 %}<img src="{{ site.baseurl }}/assets/maker/{{ include.img6 }}" alt="">{% endif %}
+    {% if include.img1 %}<img src="{{ '/assets/maker/' | append: include.img1 | relative_url }}" alt="">{% endif %}
+    {% if include.img2 %}<img src="{{ '/assets/maker/' | append: include.img2 | relative_url }}" alt="">{% endif %}
+    {% if include.img3 %}<img src="{{ '/assets/maker/' | append: include.img3 | relative_url }}" alt="">{% endif %}
+    {% if include.img4 %}<img src="{{ '/assets/maker/' | append: include.img4 | relative_url }}" alt="">{% endif %}
+    {% if include.img5 %}<img src="{{ '/assets/maker/' | append: include.img5 | relative_url }}" alt="">{% endif %}
+    {% if include.img6 %}<img src="{{ '/assets/maker/' | append: include.img6 | relative_url }}" alt="">{% endif %}
 </div>
