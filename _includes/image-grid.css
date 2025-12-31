@@ -23,6 +23,10 @@
   box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
 }
 
+.image-grid.cols-1 img {
+  width: 85%;
+}
+
 /* Mobile safety */
 @media (max-width: 768px) {
   .image-grid.cols-2,
