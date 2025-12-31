@@ -3,6 +3,7 @@ layout: post
 title: Coding
 description: Personal coding projects
 ---
+{% include image-grid.css %}
 ## The DAInfo App (Project Info)
 ### The Inspiration
 I attend Deerfield Academy, a boarding school in Massachusetts. We have an internal web application called DAInfo (it was developed in-house). DAInfo has the following features:
