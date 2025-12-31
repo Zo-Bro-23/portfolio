@@ -25,7 +25,6 @@
   grid-template-columns: repeat(5, 1fr);
 }
 
-
 .image-grid.cols-6 {
   grid-template-columns: repeat(6, 1fr);
 }
@@ -55,7 +54,7 @@
 }
 
 .responsive-video {
-  width: 75%; /* 75% of parent container */
+  width: 95%; /* 75% of parent container */
   aspect-ratio: 16/9; /* keeps 16:9 ratio automatically */
   display: block;
   margin: 0 auto; /* center horizontally */
