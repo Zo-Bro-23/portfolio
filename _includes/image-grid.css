@@ -1,0 +1,32 @@
+.image-grid {
+  display: grid;
+  gap: 1rem;
+  margin: 2rem 0;
+}
+
+.image-grid.cols-1 {
+  grid-template-columns: 1fr;
+}
+
+.image-grid.cols-2 {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.image-grid.cols-3 {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.image-grid img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+}
+
+/* Mobile safety */
+@media (max-width: 768px) {
+  .image-grid.cols-2,
+  .image-grid.cols-3 {
+    grid-template-columns: 1fr;
+  }
+}

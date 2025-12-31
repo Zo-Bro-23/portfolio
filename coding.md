@@ -5,7 +5,7 @@ description: Personal coding projects
 css: true
 ---
 <style>
-/* {% include image-grid.css %} */
+{% include image-grid.css %}
 </style>
 ## The DAInfo App (Project Info)
 ### The Inspiration
@@ -69,15 +69,21 @@ I reverse engineered the login APIs and cookie authentication format and wrote c
 %}
 *Initial Progress*
 
-![](./assets/maker/daDisplaySearch.png)
-![](./assets/maker/daDisplayStudent.png)
-![](./assets/maker/daDisplayFaculty.png)
-![](./assets/maker/daDisplayCocurric.png)
-![](./assets/maker/daDisplayTable.png)
-![](./assets/maker/daDisplayAbout.png)
-![](./assets/maker/daDisplayAP.png)
-![](./assets/maker/daDisplayMenu.png)
-![](./assets/maker/daDisplayOnecard.png)
+{% include image-grid.html cols=3
+  img1="daDisplaySearch.png"
+  img2="daDisplayStudent.png"
+  img3="daDisplayFaculty.png"
+%}
+{% include image-grid.html cols=3
+  img1="daDisplayCocurric.png"
+  img2="daDisplayTable.png"
+  img3="daDisplayAbout.png"
+%}
+{% include image-grid.html cols=3
+  img1="daDisplayAP.png"
+  img2="daDisplayMenu.png"
+  img3="daDisplayOnecard.png"
+%}
 *Finished Application*
 
 ### Face Detection
@@ -85,11 +91,21 @@ As a live demonstration intended to gain interest for the Computer Science Club 
 
 I therefore developed an alternative web application where students could search up their name and click “Join Club” to join the club. It used data from DAInfo. This program was very successful, and students enjoyed the convenience in comparison to the conventional method of using a spreadsheet to collect email addresses. Other clubs, alliances, and student organizations adopted it, and the web app has been in use for two years now.
 
-![](./assets/maker/face1.png)
-![](./assets/maker/face2.png)
-![](./assets/maker/face3.png)
-![](./assets/maker/face4.png)
-![](./assets/maker/face5.png)
+{% include image-grid.html cols=1
+  img1="face1.png"
+%}
+{% include image-grid.html cols=1
+  img1="face2.png"
+%}
+{% include image-grid.html cols=1
+  img1="face3.png"
+%}
+{% include image-grid.html cols=1
+  img1="face4.png"
+%}
+{% include image-grid.html cols=1
+  img1="face5.png"
+%}
 
 ### Vulnerabilities
 In my work reverse engineering and debugging the DAInfo APIs, I discovered a few security vulnerabilities:
@@ -105,16 +121,20 @@ We presented our work to the Head of ITS, who mentioned an unwritten student app
 
 As for the security vulnerabilities I found, ITS mentioned a cybersecurity firm employed by Deerfield to conduct audits that did not find everything that I found. They were grateful for my help and patched the more severe vulnerabilities.
 
-![](./assets/maker/daFutureHome.png)
-![](./assets/maker/daFutureBulletin.png)
-![](./assets/maker/daFutureTheme.png)
+{% include image-grid.html cols=3
+  img1="daFutureHome.png"
+  img2="daFutureBulletin.png"
+  img3="daFutureTheme.png"
+%}
 
 ### Accessing Code
 Although the code currently does not contain any student/faculty PID, some previous versions did. Moreover, the code exposes information sensitive to Deerfield Academy, and so I cannot make the GitHub repository public. If you would like access to the code, please contact me at zsubhash26@deerfield.edu or zohan.subhash@gmail.com.
 
 Fork of the face recognition code with training images removed: [https://github.com/project-info/face-public]()
 
-![](./assets/maker/daIssues.png)
+{% include image-grid.html cols=1
+  img1="daIssues.png"
+%}
 *Current Roadmap*
 
 ## Other Coding Projects
