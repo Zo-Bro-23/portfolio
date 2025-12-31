@@ -54,7 +54,7 @@
 }
 
 .responsive-video {
-  width: 95%; /* 75% of parent container */
+  width: auto; /* 75% of parent container */
   aspect-ratio: 16/9; /* keeps 16:9 ratio automatically */
   display: block;
   margin: 0 auto; /* center horizontally */
