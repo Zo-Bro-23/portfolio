@@ -2,7 +2,6 @@
 layout: post
 title: Coding
 description: Personal coding projects
-css: true
 ---
 <style>
 {% include image-grid.css %}
