@@ -5,7 +5,7 @@ description: Personal coding projects
 css: true
 ---
 <style>
-{% include image-grid.css %}
+/* {% include image-grid.css %} */
 </style>
 ## The DAInfo App (Project Info)
 ### The Inspiration
