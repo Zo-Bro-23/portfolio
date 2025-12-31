@@ -50,7 +50,7 @@ Most of the work was my own with no outside help. I used AI to create the large 
 *Final Product. Code: [https://github.com/Zo-Bro-23/led-matrix]()*
 
 #### Morse Only
-<iframe width="974" height="548" src="https://www.youtube.com/embed/I-34KFBpLcI" title="Morse Code LED Matrix (non wireless)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe class="responsive-video" src="https://www.youtube.com/embed/I-34KFBpLcI" title="Morse Code LED Matrix (non wireless)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 #### Morse and LoRa
 ***Question mark indicates invalid character***
