@@ -48,15 +48,21 @@ I reverse engineered the login APIs and cookie authentication format and wrote c
 - Information such as Faculty Advisor, Dorm Resident, Sitdown Tables, Cocurriculars, etc were clickable links (as opposed to plaintext)
 - Students and Faculty could be filtered by first name (in addition to last name)
 
-![](./assets/maker/daWeb1.png)
-![](./assets/maker/daWeb2.png)
+{% include image-grid.html cols=2
+  img1="daWeb1.png"
+  img2="daWeb2.png"
+%}
 *DAInfo Web Application. Note: Links are email mailto links, not links to the faculty member’s profile.*
 
-![](./assets/maker/daInitialLogin.png)
-![](./assets/maker/daInitialWeb.png)
-![](./assets/maker/daInitialHome.png)
-![](./assets/maker/daInitialSearch.png)
-![](./assets/maker/daInitialBirthday.png)
+{% include image-grid.html cols=2
+  img1="daInitialLogin.png"
+  img2="daInitialWeb.png"
+%}
+{% include image-grid.html cols=3
+  img1="daInitialHome.png"
+  img2="daInitialSearch.png"
+  img3="daInitialBirthday.png"
+%}
 *Initial Progress*
 
 ![](./assets/maker/daDisplaySearch.png)

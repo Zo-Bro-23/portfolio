@@ -1,0 +1,10 @@
+{% assign cols = include.cols | default: 1 %}
+
+<div class="image-grid cols-{{ cols }}">
+    {% if include.img1 %}<img src="/assets/maker/{{ include.img1 }}" alt="">{% endif %}
+    {% if include.img2 %}<img src="/assets/maker/{{ include.img2 }}" alt="">{% endif %}
+    {% if include.img3 %}<img src="/assets/maker/{{ include.img3 }}" alt="">{% endif %}
+    {% if include.img4 %}<img src="/assets/maker/{{ include.img4 }}" alt="">{% endif %}
+    {% if include.img5 %}<img src="/assets/maker/{{ include.img5 }}" alt="">{% endif %}
+    {% if include.img6 %}<img src="/assets/maker/{{ include.img6 }}" alt="">{% endif %}
+</div>
