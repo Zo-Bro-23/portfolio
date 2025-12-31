@@ -4,7 +4,7 @@ title: Engineering
 description: My Digital Logic final project and some older work
 ---
 ## Digital Logic & LED Matrix
-###### ***Morse Code Radio Communication Device***
+#### ***Morse Code Radio Communication Device***
 Our final project in Digital Logic was to “build something using an FPGA”. I was very interested in LED matrices because they seemed cool. I wanted to build an LED matrix and animate it. I started thinking how I would control the large number of LEDs, and not being able to figure out an efficient solution, did research on LED matrices. I understood how electronic signals are encoded for the HUB75 protocol. I learnt the mechanics of shift-registers and latches, and even the theory of how an LED matrix is made. My teacher recommended that I buy a prebuilt LED matrix and learn to control it using an FPGA so that I wouldn’t waste time soldering and building with a tedious number of LEDs.
 
 I tried to control the matrix with an FPGA, and when that failed, used a logic analyzer to reverse engineer the signals being sent by the Raspberry Pi library. Once I figured out how to control it using an FPGA, I wrote Verilog code to draw various shapes and characters, and later, animate the matrix.
@@ -33,10 +33,10 @@ Most of the work was my own with no outside help. I used AI to create the large 
 ![](./assets/maker/morse3.png)
 *Final Product. Code: [https://github.com/Zo-Bro-23/led-matrix]()*
 
-###### Morse Only
+#### Morse Only
 <iframe width="974" height="548" src="https://www.youtube.com/embed/I-34KFBpLcI" title="Morse Code LED Matrix (non wireless)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-###### Morse and LoRa
+#### Morse and LoRa
 ***Question mark indicates invalid character***
 <iframe width="315" height="576" src="https://www.youtube.com/embed/oWIWyAT-WBA" title="Morse Code LED Matrix (wireless)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
