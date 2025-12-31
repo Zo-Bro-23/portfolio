@@ -4,6 +4,7 @@ title: Writing
 description: My creative writing samples
 ---
 ## to seek peace.
+*Original screenplay*
 <iframe width="974" height="548" src="https://www.youtube.com/embed/5qQlv18Lgic" title="To Seek Peace" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## phone.

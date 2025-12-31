@@ -5,8 +5,9 @@ description: Piano, Western Vocals, and other music-related projects
 ---
 ## Piano
 ### Experience
-- Have been learning the piano for 9 years
-- Currently perfecting the Moonlight Sonata (Third Movement) and preparing for the Trinity Grade 8 exam
+- Played the piano for 9 years and then took a 2 year break
+- Was perfecting the **Moonlight Sonata (Third Movement)** before the break
+- Currently learning **Nocturne in F Minor *Op. 55, No. 1***
 - Have attended a workshop conducted by Prof. Simon from Trinity Laban, which gave me numerous insights into expression and performance techniques
 
 ### Performances
@@ -51,9 +52,8 @@ description: Piano, Western Vocals, and other music-related projects
 
 ## Western Vocals
 ### Experience
-- Have been learning vocals for 3 years (Baritone/Bass)
-- I love to sing, and I experiment with new styles and voice patterns that I am unfamiliar with
-- Currently working with baroque songs, folk songs, and sea shanties
+- Have been learning vocals on and off over the last 6 years (Baritone/Bass)
+- Have worked extensively with baroque songs, folk songs, and sea shanties
 
 ### Performances
 #### Meiosis Here to Save the Day by ZoBro23

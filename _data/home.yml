@@ -5,7 +5,7 @@ navbar_entries:
 project_entries:
   - title: Coding
     url: coding
-    desc: Personal coding projects and resume
+    desc: Personal coding projects
     highlight: 6 years
   - title: Engineering
     url: engineering

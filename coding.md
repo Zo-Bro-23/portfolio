@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Coding
-description: Personal coding projects and resume
+description: Personal coding projects
 ---
-# The DAInfo App (Project Info)
-## The Inspiration
+## The DAInfo App (Project Info)
+### The Inspiration
 I attend Deerfield Academy, a boarding school in Massachusetts. We have an internal web application called DAInfo (it was developed in-house). DAInfo has the following features:
 
 - Student Directory
@@ -70,7 +70,7 @@ I reverse engineered the login APIs and cookie authentication format and wrote c
 ![](./assets/maker/daDisplayOnecard.png)
 *Finished Application*
 
-## Face Detection
+### Face Detection
 As a live demonstration intended to gain interest for the Computer Science Club at our Annual Club Fair, I developed a simple Python OpenCV face-recognition script trained on image data downloaded from DAInfo, that would automatically add recognized students' emails to an email list with the click of a button. The script worked surprisingly well, notwithstanding the limited training data of one image per student. Due to concerns with the privacy of the students whose images were used to train the model, I was unable to use this program at the Club Fair.
 
 I therefore developed an alternative web application where students could search up their name and click “Join Club” to join the club. It used data from DAInfo. This program was very successful, and students enjoyed the convenience in comparison to the conventional method of using a spreadsheet to collect email addresses. Other clubs, alliances, and student organizations adopted it, and the web app has been in use for two years now.
@@ -81,7 +81,7 @@ I therefore developed an alternative web application where students could search
 ![](./assets/maker/face4.png)
 ![](./assets/maker/face5.png)
 
-## Vulnerabilities
+### Vulnerabilities
 In my work reverse engineering and debugging the DAInfo APIs, I discovered a few security vulnerabilities:
 
 - Requesting a faculty member’s PID on the StudentDetails endpoint gives us faculty date-of-births (everything else unique to students is undefined) – Lets students access faculty date-of-birthdays
@@ -90,7 +90,7 @@ In my work reverse engineering and debugging the DAInfo APIs, I discovered a few
 - “Hidden” input fields in the HTML held sensitive information like a student’s teachers and college advisor – Lets students access unauthorized data
 - Endpoints for taking sitdown attendance (some seniors are assigned as row captains) and accessing parent addresses (only parents are allowed to view the parent directory) do not authenticate, so any logged in user (any student) can access those endpoints using the URL – Allows students to edit attendance in certain circumstances and access unauthorized data
 
-## Collaboration with ITS
+### Collaboration with ITS
 We presented our work to the Head of ITS, who mentioned an unwritten student app development policy that “prohibited all student developed apps”. Due to our impressive work with the app, however, they modified the policy to allow the publishing of apps that have been approved by ITS. They did not want any personally identifiable data going through the app, however, so they suggested an app that displayed Dining Hall Menu, Athletic Schedules, Student Bulletin Posts, etc. Due to other commitments, our work on this new app never reached completion.
 
 As for the security vulnerabilities I found, ITS mentioned a cybersecurity firm employed by Deerfield to conduct audits that did not find everything that I found. They were grateful for my help and patched the more severe vulnerabilities.
@@ -99,7 +99,7 @@ As for the security vulnerabilities I found, ITS mentioned a cybersecurity firm 
 ![](./assets/maker/daFutureBulletin.png)
 ![](./assets/maker/daFutureTheme.png)
 
-## Accessing Code
+### Accessing Code
 Although the code currently does not contain any student/faculty PID, some previous versions did. Moreover, the code exposes information sensitive to Deerfield Academy, and so I cannot make the GitHub repository public. If you would like access to the code, please contact me at zsubhash26@deerfield.edu or zohan.subhash@gmail.com.
 
 Fork of the face recognition code with training images removed: [https://github.com/project-info/face-public]()
@@ -107,57 +107,42 @@ Fork of the face recognition code with training images removed: [https://github.
 ![](./assets/maker/daIssues.png)
 *Current Roadmap*
 
-## Links/Profiles
-- [GitHub](https://github.com/Zo-Bro-23)
-    - <a href="https://github.com/Zo-Bro-23?tab=repositories&sort=stargazers">
-    <img style="margin: 0px;" alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Zo-Bro-23?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-    - <a href="https://github.com/Zo-Bro-23?tab=followers">
-    <img style="margin: 0px;" alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Zo-Bro-23?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
-    - <a href="https://github.com/Zo-Bro-23/view-count-badge">
-    <img style="margin: 0px;" alt="views" title="GitHub profile views" src="https://view-count-badge.zohan.tech/Zo-Bro-23/profile?color=6b105d&labelColor=913e96&style=for-the-badge&logo=eye&label=VISITORS&logoColor=white"/></a>
-- [NPM](https://npmjs.com/~zo-bro-23)
-- [LinkedIn](https://linkedin.com/in/zobro23)
-- [Fiverr](https://fiverr.com/zobro23)
+## Other Coding Projects
+### [Population Simulation](https://population-simulation.zohan.tech)
 
-## Projects
+- Educational population simulation (evolution/natural selection) tool I built during homeschooling
+- Quality Science Labs in the US has agreed to purchase the software from me to include in one of their lab kits
+
 ### [ZoAuth](https://github.com/Zo-Bro-23/zoauth)
 *Demo live [here](https://demo.zoauth.zohan.tech)!*
 
 - Zero effort OAuth - ZoAuth!
 - Extremely easy OAuth with providers such as Google, Microsoft, Facebook, GitHub, Discord, and Amazon
-- Get running in minutes!
 
 <iframe width="974" height="548" src="https://www.youtube.com/embed/jWLpqkWkTiQ" title="Introducing ZoAuth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### [Discord Status Notification](https://github.com/Zo-Bro-23/discord-status-notification)
-
-- Easy configuration with a Discord bot token
-- Get notifications on when your friends are online or when their status changes
-- Easily enable and disable notifications for certain users
-- See details about what device they are online on
-
-### [OBS Voicemeeter Integration](https://github.com/Zo-Bro-23/obs-voicemeeter-integration)
-
-- Plugin that integrates OBS Studio and Voicemeeter Potato
-- Voice-controlled scene switching, automatic volume control for each scene, and much more
-- <a href="https://github.com/Zo-Bro-23/obs-voicemeeter-integration/releases"><img style="margin: 0px;" title="Downloads - 2189" src="https://custom-icon-badges.demolab.com/badge/2189-custom.svg?color=%23E05D44&logo=download&logoColor=white&style=for-the-badge&labelColor=CE4630&label=DOWNLOADS"/></a>
 
 ### [C29](https://github.com/Zo-Bro-23/c29)
 
 - C29 - Configure your Logitech G29!
 - Different games require different autocenter and range settings, and C29 allows you to edit these settings on the fly, using controls on your wheel! It even has LED feedback to let you know when your settings have been applied!
 
-### [Population Simulation](https://population-simulation.zohan.tech)
+### [OBS Voicemeeter Integration](https://github.com/Zo-Bro-23/obs-voicemeeter-integration)
 
-- Can run simulations with billions of individuals to test out hypotheses
-- Simulation is based on Hardy-Weinberg Principles
-- Extremely useful for building population genetics models
-- Built it for doing a Mathematical Modelling lab in AP Bio
+- Plugin that integrates OBS Studio and Voicemeeter Potato
+- Voice-controlled scene switching, automatic volume control for each scene, and much more
 
-### [Writing Stats](https://writing-stats.zohan.tech)
+### [Batch File Bot](https://github.com/Zo-Bro-23/batch-file-bot)
 
-- Get stats about your writing!
-- What's your average word length? Paragraph length? What's your writing style?
-- Built it for a Rhetorical Analysis assignment in one of my English classes
+- Discord bot that can run batch files on the deployed server
+- Can also take input and push output through Discord
+- No static IP needed!
 
-{% include_relative assets/readme.md %}
+### [Discord Status Notification](https://github.com/Zo-Bro-23/discord-status-notification)
+
+- Get notifications on when your friends are online or when their status changes
+- Easily enable and disable notifications for certain users
+- See details about what device they are online on
+
+## Open Source Work
+- Contributed extensively to [https://github.com/th-ch/youtube-music]()
+- Was one of three (two active) maintainers for [https://github.com/anuraghazra/github-readme-stats]()
