@@ -10,23 +10,23 @@
 }
 
 .image-grid.cols-2 {
-  grid-template-columns: repeat(2, auto);
+  grid-template-columns: repeat(12, 1fr);
 }
 
 .image-grid.cols-3 {
-  grid-template-columns: repeat(3, auto);
+  grid-template-columns: repeat(18, 1fr);
 }
 
 .image-grid.cols-4 {
-  grid-template-columns: repeat(4, auto);
+  grid-template-columns: repeat(24, 1fr);
 }
 
 .image-grid.cols-5 {
-  grid-template-columns: repeat(5, auto);
+  grid-template-columns: repeat(30, 1fr);
 }
 
 .image-grid.cols-6 {
-  grid-template-columns: repeat(6, auto);
+  grid-template-columns: repeat(36, 1fr);
 }
 
 .image-grid img {
@@ -36,11 +36,13 @@
   object-fit: contain;
   border-radius: 10px;
   box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+  grid-column: span 3;
 }
 
 .image-grid.cols-1 img {
   width: 85%;
   height: auto;
+  grid-column: span 1;
 }
 
 .image-grid img.wide {
