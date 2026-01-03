@@ -59,9 +59,9 @@ I reverse engineered the login APIs and cookie authentication format and wrote c
 
 {% include image-grid.html cols=2
   img1="daInitialLogin.png"
-  spanX1=1
   img2="daInitialWeb.png"
-  spanX2=4
+  img1_tall=true
+  img2_wide=true
 %}
 {% include image-grid.html cols=3
   img1="daInitialHome.png"

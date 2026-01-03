@@ -43,6 +43,14 @@
   height: auto;
 }
 
+.image-grid img.wide {
+  grid-column: span 4;
+}
+
+.image-grid img.tall {
+  grid-column: span 2;
+}
+
 /* Mobile safety */
 @media (max-width: 768px) {
   .image-grid.cols-2,

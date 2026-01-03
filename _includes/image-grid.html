@@ -5,10 +5,35 @@
 {% endif %}
 
 <div class="image-grid cols-{{ cols }}">
-    {% if include.img1 %}<img src="{{ '/assets/maker/' | append: include.img1 | relative_url }}" alt="" {% if include.spanX1 %}style="grid-row: span {{ include.spanX1 }};"{% endif %}>{% endif %}
-    {% if include.img2 %}<img src="{{ '/assets/maker/' | append: include.img2 | relative_url }}" alt="" {% if include.spanX2 %}style="grid-row: span {{ include.spanX2 }};"{% endif %}>{% endif %}
-    {% if include.img3 %}<img src="{{ '/assets/maker/' | append: include.img3 | relative_url }}" alt="" {% if include.spanX3 %}style="grid-row: span {{ include.spanX3 }};"{% endif %}>{% endif %}
-    {% if include.img4 %}<img src="{{ '/assets/maker/' | append: include.img4 | relative_url }}" alt="" {% if include.spanX4 %}style="grid-row: span {{ include.spanX4 }};"{% endif %}>{% endif %}
-    {% if include.img5 %}<img src="{{ '/assets/maker/' | append: include.img5 | relative_url }}" alt="" {% if include.spanX5 %}style="grid-row: span {{ include.spanX5 }};"{% endif %}>{% endif %}
-    {% if include.img6 %}<img src="{{ '/assets/maker/' | append: include.img6 | relative_url }}" alt="" {% if include.spanX6 %}style="grid-row: span {{ include.spanX6 }};"{% endif %}>{% endif %}
+
+    {% if include.img1 %}
+    <img src="{{ '/assets/maker/' | append: include.img1 | relative_url }}" alt=""
+        class="{% if include.img1_wide %}wide{% elsif include.img1_tall %}tall{% endif %}">
+    {% endif %}
+
+    {% if include.img2 %}
+    <img src="{{ '/assets/maker/' | append: include.img2 | relative_url }}" alt=""
+        class="{% if include.img2_wide %}wide{% elsif include.img2_tall %}tall{% endif %}">
+    {% endif %}
+
+    {% if include.img3 %}
+    <img src="{{ '/assets/maker/' | append: include.img3 | relative_url }}" alt=""
+        class="{% if include.img3_wide %}wide{% elsif include.img3_tall %}tall{% endif %}">
+    {% endif %}
+
+    {% if include.img4 %}
+    <img src="{{ '/assets/maker/' | append: include.img4 | relative_url }}" alt=""
+        class="{% if include.img4_wide %}wide{% elsif include.img4_tall %}tall{% endif %}">
+    {% endif %}
+
+    {% if include.img5 %}
+    <img src="{{ '/assets/maker/' | append: include.img5 | relative_url }}" alt=""
+        class="{% if include.img5_wide %}wide{% elsif include.img5_tall %}tall{% endif %}">
+    {% endif %}
+
+    {% if include.img6 %}
+    <img src="{{ '/assets/maker/' | append: include.img6 | relative_url }}" alt=""
+        class="{% if include.img6_wide %}wide{% elsif include.img6_tall %}tall{% endif %}">
+    {% endif %}
+
 </div>
