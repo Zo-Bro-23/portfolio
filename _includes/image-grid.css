@@ -36,7 +36,7 @@
   object-fit: contain;
   border-radius: 10px;
   box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
-  grid-column: span 3;
+  grid-column: span 6;
 }
 
 .image-grid.cols-1 img {
@@ -46,11 +46,11 @@
 }
 
 .image-grid img.wide {
-  grid-column: span 4;
+  grid-column: span 8;
 }
 
 .image-grid img.tall {
-  grid-column: span 2;
+  grid-column: span 4;
 }
 
 /* Mobile safety */
