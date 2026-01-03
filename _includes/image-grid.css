@@ -37,6 +37,7 @@
   border-radius: 10px;
   box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
   grid-column: span 6;
+  align-self: center;
 }
 
 .image-grid.cols-1 img {
