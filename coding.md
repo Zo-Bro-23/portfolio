@@ -55,7 +55,7 @@ I reverse engineered the login APIs and cookie authentication format and wrote c
   img1="daWeb1.png"
   img2="daWeb2.png"
 %}
-*DAInfo Web Application. Note: Links are email mailto links, not links to the faculty member’s profile.*
+<p style="text-align: center;"><em>DAInfo Web Application. Note: Links are email mailto links, not links to the faculty member’s profile.</em></p>
 
 {% include image-grid.html cols=2
   img1="daInitialLogin.png"
@@ -137,7 +137,7 @@ Fork of the face recognition code with training images removed: [https://github.
 {% include image-grid.html cols=1
   img1="daIssues.png"
 %}
-<p style="text-align: center;"><em>Current Roadmap</em><p>
+<p style="text-align: center;"><em>Current Roadmap</em></p>
 
 ## Other Coding Projects
 ### [Population Simulation](https://population-simulation.zohan.tech)
