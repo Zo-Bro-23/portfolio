@@ -16,6 +16,7 @@ For my final project in *Honors Chemistry 2: Research in Molecular Biology* (pro
 {% include image-grid.html cols=1 img1="chem2.jpg" %}
 {% include image-grid.html cols=1 img1="chem3.jpg" %}
 
+<p style="text-align: center;"><em>Final Results</em></p>
 {% include image-grid.html cols=1 img1="chem4.jpg" %}
 {% include image-grid.html cols=2
   img1="chem5.jpg"
