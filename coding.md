@@ -68,7 +68,7 @@ I reverse engineered the login APIs and cookie authentication format and wrote c
   img2="daInitialSearch.png"
   img3="daInitialBirthday.png"
 %}
-<p style="text-align: center;">*Initial Progress*</p>
+<p style="text-align: center;"><em>Initial Progress</em></p>
 
 {% include image-grid.html cols=3
   img1="daDisplaySearch.png"
@@ -85,7 +85,7 @@ I reverse engineered the login APIs and cookie authentication format and wrote c
   img2="daDisplayMenu.png"
   img3="daDisplayOnecard.png"
 %}
-<p style="text-align: center;">*Finished Application*</p>
+<p style="text-align: center;"><em>Finished Application</em></p>
 
 ### Face Detection
 As a live demonstration intended to gain interest for the Computer Science Club at our Annual Club Fair, I developed a simple Python OpenCV face-recognition script trained on image data downloaded from DAInfo, that would automatically add recognized students' emails to an email list with the click of a button. The script worked surprisingly well, notwithstanding the limited training data of one image per student. Due to concerns with the privacy of the students whose images were used to train the model, I was unable to use this program at the Club Fair.
@@ -127,7 +127,7 @@ As for the security vulnerabilities I found, ITS mentioned a cybersecurity firm 
   img2="daFutureBulletin.png"
   img3="daFutureTheme.png"
 %}
-*<p style="text-align: center;">Work on the new app proposed by ITS</p>*
+<p style="text-align: center;"><em>Work on the new app proposed by ITS</em></p>
 
 ### Accessing Code
 Although the code currently does not contain any student/faculty PID, some previous versions did. Moreover, the code exposes information sensitive to Deerfield Academy, and so I cannot make the GitHub repository public. If you would like access to the code, please contact me at zsubhash26@deerfield.edu or zohan.subhash@gmail.com.
@@ -137,7 +137,7 @@ Fork of the face recognition code with training images removed: [https://github.
 {% include image-grid.html cols=1
   img1="daIssues.png"
 %}
-*<p style="text-align: center;">Current Roadmap<p>*
+<p style="text-align: center;"><em>Current Roadmap</em><p>
 
 ## Other Coding Projects
 ### [Population Simulation](https://population-simulation.zohan.tech)
