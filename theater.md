@@ -3,6 +3,9 @@ layout: post
 title: Theater
 description: My work in theater and filmmaking so far
 ---
+<style>
+{% include image-grid.css %}
+</style>
 ## Blue Stockings
 ![](./assets/bluestockings/one.jpg)
 ![](./assets/bluestockings/two.jpg)

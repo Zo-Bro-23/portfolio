@@ -3,6 +3,9 @@ layout: post
 title: Music
 description: Piano, Western Vocals, and other music-related projects
 ---
+<style>
+{% include image-grid.css %}
+</style>
 ## Piano
 ### Experience
 - Played the piano for 9 years and then took a 2 year break
