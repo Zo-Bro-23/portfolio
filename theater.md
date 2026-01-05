@@ -7,9 +7,9 @@ description: My work in theater and filmmaking so far
 {% include image-grid.css %}
 </style>
 ## Blue Stockings
-{% include image-grid.html cols=1 img1="one.jpg" %}
-{% include image-grid.html cols=1 img1="two.jpg" %}
-{% include image-grid.html cols=1 img1="three.jpg" %}
+![](./assets/bluestockings/one.jpg)
+![](./assets/bluestockings/two.jpg)
+![](./assets/bluestockings/three.jpg)
 
 #### [More Photographs](https://zobro23.pic-time.com/-theater)
 
@@ -18,10 +18,10 @@ description: My work in theater and filmmaking so far
 
 <iframe class="responsive-video" src="https://www.youtube.com/embed/3_A14LJjRNY" title="Crucible Clip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-{% include image-grid.html cols=1 img1="https://github.com/user-attachments/assets/c967192a-7c64-4e1d-a667-334e0e266496" %}
-{% include image-grid.html cols=1 img1="https://github.com/user-attachments/assets/a102ff72-dca1-443a-adf0-0c92e88f6226" %}
-{% include image-grid.html cols=1 img1="https://github.com/user-attachments/assets/eed65934-5e31-4199-aab0-976f91a9e453" %}
-{% include image-grid.html cols=1 img1="https://github.com/user-attachments/assets/643f7892-9134-404f-ad82-d219ce63b228" %}
+![128](https://github.com/user-attachments/assets/c967192a-7c64-4e1d-a667-334e0e266496)
+![135](https://github.com/user-attachments/assets/a102ff72-dca1-443a-adf0-0c92e88f6226)
+![130](https://github.com/user-attachments/assets/eed65934-5e31-4199-aab0-976f91a9e453)
+![122](https://github.com/user-attachments/assets/643f7892-9134-404f-ad82-d219ce63b228)
 
 #### [More Photographs](https://zobro23.pic-time.com/-theater)
 
