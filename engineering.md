@@ -18,6 +18,7 @@ As for making the device aesthetically pleasing, I laser cut an acrylic platform
 
 Most of the work was my own with no outside help. I used AI to create the large hardcoded Verilog busses for the matrix alphabet. I experimented with AI to see how useful it would be on the Arduino code, and didn’t like how it took the fun away from coding, so stuck to doing it by myself.
 
+<p style="text-align: center;"><em>Initial progress with LED matrix. 1, 2, 3, and 4 show matrix controlled by FPGA. 5 and 6 show matrix controlled by Raspberry Pi (black stripes due to camera flicker).</em></p>
 {% include image-grid.html cols=3
   img1="matrix1.png"
   img2="matrix2.png"
@@ -28,8 +29,8 @@ Most of the work was my own with no outside help. I used AI to create the large 
   img2="matrix5.png"
   img3="matrix6.png"
 %}
-<p style="text-align: center;"><em>Initial progress with LED matrix. 1, 2, 3, and 4 show matrix controlled by FPGA. 5 and 6 show matrix controlled by Raspberry Pi (black stripes due to camera flicker).</em></p>
 
+<p style="text-align: center;"><em>PCB Board and demonstration of LED matrix’s magnetic spikes</em></p>
 {% include image-grid.html cols=1
   img1="pcb1.png"
 %}
@@ -39,8 +40,8 @@ Most of the work was my own with no outside help. I used AI to create the large 
 {% include image-grid.html cols=1
   img1="pcb3.png"
 %}
-<p style="text-align: center;"><em>PCB Board and demonstration of LED matrix’s magnetic spikes</em></p>
 
+<p style="text-align: center;"><em>Final Product. Code: <a href="https://github.com/Zo-Bro-23/led-matrix">https://github.com/Zo-Bro-23/led-matrix</a></em></p>
 {% include image-grid.html cols=1
   img1="morse1.png"
 %}
@@ -50,7 +51,6 @@ Most of the work was my own with no outside help. I used AI to create the large 
 {% include image-grid.html cols=1
   img1="morse3.png"
 %}
-<p style="text-align: center;"><em>Final Product. Code: <a href="https://github.com/Zo-Bro-23/led-matrix">https://github.com/Zo-Bro-23/led-matrix</a></em></p>
 
 #### Morse Only
 <iframe class="responsive-video" src="https://www.youtube.com/embed/I-34KFBpLcI" title="Morse Code LED Matrix (non wireless)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
