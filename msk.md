@@ -12,10 +12,10 @@ I asked to work on Whole Slide Imaging, which interested me the most out of the 
 
 Through a lot of brainstorming, discussions with my mentor, and experimenting with Cursor, I developed a tool that worked surprisingly well, and better than my competitor in accuracy and performance efficiency. There were challenges I had to work around such as ink and dirt on the slides, but my tool managed to perform well against these adversaries.
 
+<p style="text-align: center;"><em>Slides from my presentation to the lab</em></p>
 {% include image-grid.html cols=1 img1="msk1.png" %}
 {% include image-grid.html cols=1 img1="msk2.png" %}
 {% include image-grid.html cols=1 img1="msk3.png" %}
-*Slides from my presentation to the lab*
 
 Trident is the Deep Learning implementation by the Mahmood lab, and **SlideTileExtractor is an in-house implementation** developed by someone at MSK. The latter, however, has many hardcoded variables such as tissue blob size and ink color, and does not work well for different types of slides.
 

@@ -9,12 +9,12 @@ description: Engineering projects I did for schoolwork in other subjects
 ## 3D Bacteria Art for Molecular Biology
 For my final project in *Honors Chemistry 2: Research in Molecular Biology* (prompt was open-ended: research/do something), I wanted to recreate the Deerfield logo using fluorescent bacteria in multiple colors. I used 3D printed molds to set agarose gel in the shape of the Deerfield logo. The first main challenge was 3D printing material that would not warp under the high temperature/pressure of a sterilized autoclave. The second main challenge was extracting agarose gel from the molds without breaking the shape. The third challenge I encountered was that the bacteria did not glow for some of the color strains, but I was unable to find a solution to this (my final product was monochrome).
 
+<p style="text-align: center;"><em>Warping under autoclave</em></p>
 {% include image-grid.html cols=1 img1="chem1.png" %}
-*Warping under autoclave*
 
+<p style="text-align: center;"><em>Bacteria on broken gel</em></p>
 {% include image-grid.html cols=1 img1="chem2.jpg" %}
 {% include image-grid.html cols=1 img1="chem3.jpg" %}
-*Bacteria on broken gel*
 
 {% include image-grid.html cols=1 img1="chem4.jpg" %}
 {% include image-grid.html cols=2
