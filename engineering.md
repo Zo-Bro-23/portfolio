@@ -28,7 +28,7 @@ Most of the work was my own with no outside help. I used AI to create the large 
   img2="matrix5.png"
   img3="matrix6.png"
 %}
-*Initial progress with LED matrix. 1, 2, 3, and 4 show matrix controlled by FPGA. 5 and 6 show matrix controlled by Raspberry Pi (black stripes due to camera flicker).*
+<p style="text-align: center;"><em>Initial progress with LED matrix. 1, 2, 3, and 4 show matrix controlled by FPGA. 5 and 6 show matrix controlled by Raspberry Pi (black stripes due to camera flicker).</em></p>
 
 {% include image-grid.html cols=1
   img1="pcb1.png"
@@ -39,7 +39,7 @@ Most of the work was my own with no outside help. I used AI to create the large 
 {% include image-grid.html cols=1
   img1="pcb3.png"
 %}
-*PCB Board and demonstration of LED matrix’s magnetic spikes*
+<p style="text-align: center;"><em>PCB Board and demonstration of LED matrix’s magnetic spikes</em></p>
 
 {% include image-grid.html cols=1
   img1="morse1.png"
@@ -50,7 +50,7 @@ Most of the work was my own with no outside help. I used AI to create the large 
 {% include image-grid.html cols=1
   img1="morse3.png"
 %}
-*Final Product. Code: [https://github.com/Zo-Bro-23/led-matrix]()*
+<p style="text-align: center;"><em>Final Product. Code: <a href="https://github.com/Zo-Bro-23/led-matrix">https://github.com/Zo-Bro-23/led-matrix</a></em></p>
 
 #### Morse Only
 <iframe class="responsive-video" src="https://www.youtube.com/embed/I-34KFBpLcI" title="Morse Code LED Matrix (non wireless)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
